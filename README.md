@@ -1,4 +1,4 @@
-# Test task for VEEAM
+# Folder sync script
 
 ## Assignment
 Please implement a program in Python that synchronizes two folders: source and replica.
